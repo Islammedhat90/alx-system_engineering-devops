@@ -2,3 +2,4 @@
 1-listit list everything in directory
 2-bring_me_home go to home directory
 3-listfiles list all files long format
+4-listmorefiles list all files including hidden long format
